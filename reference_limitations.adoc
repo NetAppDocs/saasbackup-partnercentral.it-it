@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_reference_limitations.html 
+keywords: saas backup, partner central, microsoft 365, problems, limitations 
+summary: Un elenco di problemi e limitazioni noti. 
+---
+= Problemi e limitazioni noti
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Esiste il seguente limite:
+
+* I partner non possono inserire tenant in base alle autorizzazioni delegate.
+

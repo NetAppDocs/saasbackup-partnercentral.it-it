@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+summary: Benvenuti nel portale di documentazione di NetApp SaaS Backup per Partner Central. 
+---
+= Documentazione NetApp SaaS Backup Partner Central
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: saas backup, partner central, partners, microsoft 365, documentation, new, get started, provide feedback, get help, find, information
+
+
+NetApp SaaS Backup Partner Central è un'interfaccia che aiuta i partner NetApp a gestire e supportare i clienti che utilizzano SaaS Backup per Microsoft 365. Vengono fornite le procedure per registrarsi in Partner Central, gestire i clienti e apportare modifiche alle impostazioni e alle informazioni su partner e clienti.
+
+
+
+== Scopri le novità
+
+* link:partnercentral_reference_new.html["Note di rilascio"]
+* Per aggiornamenti sui prodotti, video di istruzioni e informazioni sullo stato dei servizi, vai alla vista dashboard *Novità*.
++
+image:whats_new.png["Partner Central *Novità*"]
+
+
+
+
+
+== Inizia subito
+
+* link:partnercentral_task_register.html["Iscriviti a Partner Central"]
+* link:partnercentral_task_add_and_manage_customers.html["Aggiungi e gestisci i clienti"]
+
+
+
+
+== Ottieni aiuto, trova ulteriori informazioni e fornisci feedback
+
+* Per accedere a diverse risorse di supporto, accedere a *Support* nell'interfaccia utente di Partner Central.
++
+image:support_page.png["Pagina di supporto"]
+
++
+La pagina *supporto* consente di accedere agli articoli della *Knowledge base*, alle *Community*, al *Manuale utente* per SaaS Backup per Microsoft 365 e al *Trust Center*. Puoi anche fornire feedback e porre domande selezionando *Contattaci*.
+
+* link:https://cloud.netapp.com/saas-backup["Pagina dei prodotti per SaaS Backup per Microsoft 365"]
+* link:https://docs.netapp.com/us-en/saasbackupO365/["Documentazione per l'utente di SaaS Backup per Microsoft 365"]
+

@@ -1,0 +1,57 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_monitor.html 
+keywords: saas backup, partner central, microsoft 365, monitor, backup, sync, restore, jobs 
+summary: Puoi monitorare i processi di backup, sincronizzazione e ripristino SaaS per Microsoft 365 per i tuoi clienti in SaaS Backup Partner Central. 
+---
+= Monitorare i lavori del cliente
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Puoi monitorare i processi di backup, sincronizzazione e ripristino per i tuoi clienti SaaS Backup per Microsoft 365 in SaaS Backup Partner Central.
+
+.Fasi
+. Dalla dashboard, fare clic su *Monitoring* (monitoraggio).
++
+image:monitoring.png["pagina di monitoraggio"]
+
++
+In *Monitoring* (monitoraggio), è possibile visualizzare la cronologia dei processi per i clienti in due schede separate: *Running Jobs* (lavori in esecuzione) e *Completed Jobs* (lavori completati).
+
+. È possibile filtrare *lavori in esecuzione* e *lavori completati* in base al tipo di lavoro, al tipo di servizio, al nome di dominio e allo stato.
++
+.. Per filtrare in base al tipo di lavoro, fare clic su *filtro* in *tipo di lavoro* e selezionare il tipo di lavoro.
++
+image:filter_job_type.png["filtra per tipo di lavoro"]
+
++
+*I tipi di lavoro Now* si riferiscono ai lavori on-demand.
+
+.. Per filtrare in base al tipo di servizio, fare clic su *Filter* sotto *Service type* (tipo di servizio), quindi selezionare il servizio.
++
+Selezionare il servizio:
+
++
+*** Exchange Online
+*** OneDrive per le aziende
+*** SharePoint Online
+*** Gruppi Office 365
+
+
+.. Per filtrare in base al cliente, fare clic su *Filter* sotto *Domain name* (Nome dominio), quindi selezionare o cercare il dominio del cliente.
++
+image:filter_customer_domain.png["filtra per dominio del cliente"]
+
+.. Per filtrare in base allo stato, fare clic su *Filter* (filtro) in *Status* (Stato), quindi selezionare lo stato.
++
+image:filter_job_status.png["filtra per stato del lavoro"]
+
+
+
+

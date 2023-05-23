@@ -1,0 +1,50 @@
+---
+sidebar: sidebar 
+permalink: partnercentral_task_manage_roles.html 
+keywords: saas backup, partner central, role management, manage, role, roles 
+summary: È possibile modificare, aggiungere e assegnare ruoli utente diversi in SaaS Backup Partner Central. 
+---
+= Gestire i ruoli
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+In SaaS Backup Partner Central è possibile modificare, aggiungere e assegnare ruoli utente diversi.
+
+L'email predefinita in *Role Management* è l'email del partner.
+
+.Fasi
+. Dalla dashboard, fare clic su image:settings_icon.png["icona delle impostazioni"].
+. Selezionare *Role Management* dal menu a discesa.
++
+image:settings_role_management.png["menu a discesa settings (impostazioni): selezionare role management (gestione ruoli"]
+
+. In *Role Management*, è possibile aggiungere, modificare ed eliminare i ruoli.
++
+image:role_management_screen.png["schermata di gestione dei ruoli"]
+
+. Per aggiungere un utente, fare clic su image:add_notification_icon.png["icona add (aggiungi)"].
++
+In *Add User* (Aggiungi utente), inserire le informazioni richieste.
+
++
+image:add_user_role_management.png["schermata add user role management (aggiungi gestione ruoli utente)"]
+
++
+.. Selezionare il ruolo dell'utente.
++
+*** *Global Partner Admin*: Può creare altri partner globali e avere il pieno controllo di tutti i ruoli.
+*** *Amministratore completo*: Ha il pieno controllo di tutti i ruoli, ad eccezione dei partner globali.
+*** *Config Admin*: Può aggiungere ed eliminare clienti.
+
+
+
+
+. Per modificare il ruolo di un utente, fare clic su image:pencil_icon.png["icona a forma di matita"].
+. Per eliminare un utente, fare clic su image:delete_icon_blue.png["icona elimina"].
+
