@@ -1,8 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: partnercentral_task_manage_keys.html 
-keywords: saas backup, partner central, key management, manage, key, keys, add, download, PowerShell 
-summary: 'È possibile aggiungere e gestire le chiavi per una maggiore sicurezza in Partner Central. È inoltre disponibile il supporto per l"interfaccia del cmdlet PowerShell.' 
+keywords: saas backup, partner central, key management, manage, key, keys, add, download, 
+summary: È possibile aggiungere e gestire le chiavi per una maggiore sicurezza in Partner Central. 
 ---
 = Gestire le chiavi
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: 'È possibile aggiungere e gestire le chiavi per una maggiore sicurezza
 
 
 [role="lead"]
-È possibile aggiungere e gestire le chiavi per una maggiore sicurezza in Partner Central dall'impostazione *Key Management* (Gestione chiavi). È inoltre disponibile il supporto per l'interfaccia del cmdlet PowerShell.
+È possibile aggiungere e gestire le chiavi per una maggiore sicurezza in Partner Central dall'impostazione *Key Management* (Gestione chiavi).
 
 
 
@@ -43,20 +43,3 @@ image:add_key_screen.png["schermata add key (aggiungi chiave)"]
 
 . Fare clic su image:eye_show_key_icon.png["mostra l'icona del tasto"] per visualizzare la chiave non crittografata e fare clic su image:eye_hide_key_icon.png["icona nascondi tasto"] per nascondere la chiave non crittografata.
 
-
-
-
-== Scarica PowerShell
-
-.Fasi
-. Dalla dashboard, fare clic su image:settings_icon.png["icona delle impostazioni"].
-. Selezionare *Key Management* (Gestione chiavi) dal menu a discesa.
-+
-image:settings_key_management.png["gestione dei tasti del menu a discesa delle impostazioni"]
-
-. Per scaricare PowerShell, fare clic su image:download_powershell_icon.png["Scarica l'icona PowerShell"].
-. Installare il programma scaricato.
-. Dopo l'installazione del programma, fare doppio clic sull'icona *SaaS Backup PowerShell* sul desktop per avviare il cmdlet PowerShell.
-
-
-Per ulteriori informazioni sull'utilizzo del modulo NetApp SaaS Backup PowerShell, fare riferimento a. link:https://fieldportal.netapp.com/content/1255854["Guida a NetApp SaaS Backup PowerShell (TR-4873)"].

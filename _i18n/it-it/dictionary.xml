@@ -172,9 +172,7 @@
   <block id="3150041c64d69a098294e6d7683d43ad" category="list-text">*Config Admin*: Può aggiungere ed eliminare clienti.</block>
   <block id="dd3a8880e867a3ac93b3cd50d72c1dee" category="list-text">Per modificare il ruolo di un utente, fare clic su <block ref="6f4eb4ae8336a2a7418d442f0bb5ddd7" category="inline-image-macro-rx" type="image"></block>.</block>
   <block id="e5dea6b15e24231a11c6baaefc9a5e44" category="list-text">Per eliminare un utente, fare clic su <block ref="a20be33c177568cb4088182d62b5491f" category="inline-image-macro-rx" type="image"></block>.</block>
-  <block id="f8ae6b0d797d8aa392d4533d9b74db73" category="summary">È possibile aggiungere e gestire le chiavi per una maggiore sicurezza in Partner Central. È inoltre disponibile il supporto per l'interfaccia del cmdlet PowerShell.</block>
   <block id="4083a031be9d1ce08dde21494d3976f0" category="doc">Gestire le chiavi</block>
-  <block id="a308e1de9050f258886ad5097b357575" category="paragraph">È possibile aggiungere e gestire le chiavi per una maggiore sicurezza in Partner Central dall'impostazione *Key Management* (Gestione chiavi). È inoltre disponibile il supporto per l'interfaccia del cmdlet PowerShell.</block>
   <block id="9cca82fdcfe9bc5d32d0c7158beec0c9" category="section-title">Aggiungere chiavi</block>
   <block id="b4d957bb1de18875da8d6fb4b66fff2f" category="list-text">Selezionare *Key Management* (Gestione chiavi) dal menu a discesa.</block>
   <block id="ea77f6cd2bf52df2407b6a9a2b644151" category="inline-image-macro">gestione dei tasti del menu a discesa delle impostazioni</block>
@@ -193,13 +191,6 @@
   <block id="3223a0325a3482ca93e76c78f2647235" category="inline-image-macro">mostra l'icona del tasto</block>
   <block id="e0385137855e45d065623977b5e937b2" category="inline-image-macro">icona nascondi tasto</block>
   <block id="fa2df5a862b7a59888412ac406e74f38" category="list-text">Fare clic su <block ref="6211f5f3543b18126f5cb4c8b7c04eb3" category="inline-image-macro-rx" type="image"></block> per visualizzare la chiave non crittografata e fare clic su <block ref="010ee53af5c5f822e0070e45fae2be5d" category="inline-image-macro-rx" type="image"></block> per nascondere la chiave non crittografata.</block>
-  <block id="921a0ecfc6730a28879427fd0281ac5f" category="section-title">Scarica PowerShell</block>
-  <block id="b3b38b65a04d6e1bae06123cb3d66f6f" category="inline-image-macro">Scarica l'icona PowerShell</block>
-  <block id="9d3e158be25c2bf7a4465ab3fad7c0d3" category="list-text">Per scaricare PowerShell, fare clic su <block ref="9d346df1ef229d4025c737e49a9aed10" category="inline-image-macro-rx" type="image"></block>.</block>
-  <block id="e5619dd51cac21cf148f2b484e35836d" category="list-text">Installare il programma scaricato.</block>
-  <block id="1902fe9260b654df58d39430f970011a" category="list-text">Dopo l'installazione del programma, fare doppio clic sull'icona *SaaS Backup PowerShell* sul desktop per avviare il cmdlet PowerShell.</block>
-  <block id="ca8c9c0154398e79648bcd160fc38f6b" category="inline-link-macro">Guida a NetApp SaaS Backup PowerShell (TR-4873)</block>
-  <block id="d3ce03733dfdf43d215401ad8a54d319" category="paragraph">Per ulteriori informazioni sull'utilizzo del modulo NetApp SaaS Backup PowerShell, fare riferimento a. <block ref="a0f31f237eb63466a8703284d2872029" category="inline-link-macro-rx"></block>.</block>
   <block id="15f9ee239f9ae142c06591f58934b1db" category="summary">Puoi registrarti come partner e iniziare ad aggiungere e gestire i clienti nell'interfaccia Partner Central.</block>
   <block id="39259c470f5b8c0975165d1822052c37" category="doc">Iscriviti a NetApp SaaS Backup Partner Central</block>
   <block id="0cd7c2688e1916155c330e8a43bd6b24" category="paragraph">In NetApp SaaS Backup Partner Central, puoi registrarti come partner. Dopo la registrazione, è possibile iniziare ad aggiungere e gestire i clienti nell'interfaccia.</block>
@@ -245,4 +236,6 @@
   <block id="23ad15066715d93a5dfb7d99bfb0d157" category="sidebar">Gestire le impostazioni</block>
   <block id="125f065ef0a6b33559b191f2a73d9dbe" category="sidebar">Gestire le chiavi</block>
   <block id="a340b786a137624da1d053fa7f0bb5ea" category="sidebar">Dove trovare assistenza e informazioni</block>
+  <block id="adb037296ec5890668582b7d941e31a7" category="summary">È possibile aggiungere e gestire le chiavi per una maggiore sicurezza in Partner Central.</block>
+  <block id="c56e63c2fd8bbde29916a0445162e4b2" category="paragraph">È possibile aggiungere e gestire le chiavi per una maggiore sicurezza in Partner Central dall'impostazione *Key Management* (Gestione chiavi).</block>
 </blocks>
